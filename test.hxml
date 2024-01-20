@@ -1,0 +1,9 @@
+-cp src
+-main olib.logging.tests.Main
+
+-hl bin/out.hl
+
+-D debug
+-D message-reporting=pretty
+
+-L utest
